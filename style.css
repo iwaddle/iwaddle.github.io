@@ -23,15 +23,29 @@ h1 {
 	font-weight:lighter;
 }
 .boxbot {
-	
-	width:100%;border:3px solid white;padding:1px;text-align:center;
+	float:left;
+	width:84.1%;border:3px solid white;padding:1px;text-align:center;
 	
 	color:#ffffff;
 	font-family:Tahoma;
 	font-weight:lighter;
 }
+.redbox {
+	float: right;
+	width:12.5%;border:3px solid red;padding:11.2px;text-align:center;
+	
+	color:#ff0000;
+	font-family:Tahoma;
+	font-weight:lighter;
+}
 p {
 	color:#ffffff;
+	font-size:25px;
+	font-family:Tahoma;
+	font-weight:lighter;
+}
+r {
+	color:#ff0000;
 	font-size:25px;
 	font-family:Tahoma;
 	font-weight:lighter;
