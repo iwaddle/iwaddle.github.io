@@ -1,0 +1,60 @@
+body {
+	background-color:#4A9FFF;
+}
+h1 {
+	color:#ffffff;
+	font-family:Tahoma;
+	font-weight:lighter;
+	font-size:50px;
+}
+.box1 {
+	float: left;
+	width:48%;border:3px solid white;padding:0px;text-align:center;
+	color:#ffffff;
+	font-family:Tahoma;
+	font-weight:lighter;
+}
+.box2 {
+	float: right;
+	width:48%;border:3px solid white;padding:13.2px;text-align:center;
+	
+	color:#ffffff;
+	font-family:Tahoma;
+	font-weight:lighter;
+}
+.boxbot {
+	
+	width:100%;border:3px solid white;padding:1px;text-align:center;
+	
+	color:#ffffff;
+	font-family:Tahoma;
+	font-weight:lighter;
+}
+p {
+	color:#ffffff;
+	font-size:25px;
+	font-family:Tahoma;
+	font-weight:lighter;
+}
+par {
+	color:#ffffff;
+	font-size:23.5px;
+	font-family:Tahoma;
+	font-weight:lighter;
+}
+.button {
+  background-color: #FFFFFF;
+  transition-duration: 0.2s;
+  border: none;
+  color: #4A9FFF;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  cursor:pointer;
+}
+.button:hover {
+  background-color: #C4C4C4;
+  color: white;
+}
